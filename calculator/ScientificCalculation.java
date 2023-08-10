@@ -1,0 +1,3 @@
+interface ScientificCalculation{
+    void DoubletoThePow();
+}
